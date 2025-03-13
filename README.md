@@ -40,4 +40,9 @@ php artisan migrate
 php artisan serve
 
 
+route Admin : admin/auth/login
+Email : bookreview@gmail.com
+Password : 123456789
+
+
 	
