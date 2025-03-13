@@ -15,6 +15,7 @@ return new class extends Migration
             $table->id();
             $table->foreignId('book_id')->constrained('books')->cascadeOnDelete();
             $table->foreignId('user_id')->constrained('users')->cascadeOnDelete();
+            $table->text('_token');
             $table->text('review');
             $table->unsignedTinyInteger('rating');
             $table->timestamps();
