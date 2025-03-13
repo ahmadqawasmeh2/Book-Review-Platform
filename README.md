@@ -35,7 +35,7 @@ Customize the application as needed.
 
 composer install
 
-php artisan migrate
+php artisan migrate --seed
 
 php artisan serve
 
