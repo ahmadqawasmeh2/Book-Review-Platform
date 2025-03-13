@@ -11,6 +11,7 @@ Livewire Integration: Used for real-time interactions, such as submitting review
 Service Container: Implements dependency injection for better code organization and scalability.
 GitHub Deployment: The project is structured and uploaded to GitHub for version control and collaboration.
 
+
 Technologies Used:
 Laravel 12 (PHP Framework)
 Livewire (for dynamic UI updates)
